@@ -7,8 +7,7 @@
   <h3>🚀 Full Stack Developer | Backend & Mobile Specialist</h3>
   
   <p>
-    Estudiante de <b>Ingeniería de Sistemas e IA (7mo Ciclo - UPAO)</b>[cite: 45].<br>
-    No solo escribo código; diseño sistemas escalables usando <b>Arquitectura Hexagonal</b> y <b>Clean Architecture</b>[cite: 11, 19].
+    Estudiante de <b>Ingeniería de Sistemas e IA (7mo Ciclo)</b>.<br>
   </p>
 
   <br/>
