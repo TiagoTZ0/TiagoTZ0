@@ -5,26 +5,32 @@
   <h3>🚀 Full Stack Developer | Backend & Mobile Specialist</h3>
   
   <p>
-    Estudiante de <b>Ingeniería de Sistemas e IA (7mo Ciclo - UPAO)</b>.<br>
-    Especializado en crear soluciones escalables con <b>Django</b> y apps multiplataforma con <b>Flutter/React Native</b>.
+    Estudiante de <b>Ingeniería de Sistemas e IA (7mo Ciclo)
   </p>
 
   <br/>
 
   <h3>⚡ Mi Stack Tecnológico</h3>
   
+  <b>Backend & Data</b>
+  <br/>
   <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
   </p>
 
+  <b>Mobile & Web</b>
+  <br/>
   <p>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </p>
 
+  <b>Cloud, AI & Ops</b>
+  <br/>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -39,7 +45,7 @@
 
 | Proyecto | Stack | Descripción Clave |
 | :--- | :--- | :--- |
-| **📱 SaaS Nutricional** | `React Native` `Django` `AWS` | Arquitectura **Multi-tenant** con seguridad RBAC y despliegue en la nube. |
+| **📱 SaaS Nutricional** | `React Native` `Django` `AWS` | Arquitectura **Multi-tenant** con seguridad RBAC y despliegue Cloud. |
 | **📦 Gestión Inventario** | `Flutter Desktop` `Django` `MySQL` | Sistema de escritorio con lógica de **lotes y vencimientos** (FIFO). |
 | **🤖 Food AI Vision** | `Python` `MobileNetV2` | Visión computacional para alimentos usando **Transfer Learning**. |
 
