@@ -45,7 +45,7 @@
 
 | Proyecto | Stack | Descripción Clave |
 | :--- | :--- | :--- |
-| **📱 SaaS Nutricional** | `React Native` `Django` `Docker` | Arquitectura **Multi-tenant** con seguridad RBAC y despliegue Cloud. |
+| **📱 SaaS Nutricional** | `React Native` `Django` `Docker` | Arquitectura **Multi-tenant** con seguridad RBAC y Contenedores. |
 | **📦 Gestión Inventario** | `Flutter Desktop` `Django` `MySQL` | Sistema de escritorio con lógica de **lotes y vencimientos** (FIFO). |
 | **🤖 Food AI Vision** | `Python` `MobileNetV2` | Visión computacional para alimentos usando **Transfer Learning**. |
 
