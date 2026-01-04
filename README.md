@@ -45,7 +45,7 @@
 
 | Proyecto | Stack | Descripción Clave |
 | :--- | :--- | :--- |
-| **📱 SaaS Nutricional** | `React Native` `Django` `AWS` | Arquitectura **Multi-tenant** con seguridad RBAC y despliegue Cloud. |
+| **📱 SaaS Nutricional** | `React Native` `Django` `Docker` | Arquitectura **Multi-tenant** con seguridad RBAC y despliegue Cloud. |
 | **📦 Gestión Inventario** | `Flutter Desktop` `Django` `MySQL` | Sistema de escritorio con lógica de **lotes y vencimientos** (FIFO). |
 | **🤖 Food AI Vision** | `Python` `MobileNetV2` | Visión computacional para alimentos usando **Transfer Learning**. |
 
@@ -59,7 +59,7 @@
   <a href="mailto:tiagotrigosoz@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=flat&logo=gmail" alt="Email" />
   </a>
-  <a href="https://portfolio-tiago.app">
+  <a href="https://portfolio-page-n6m4.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Web-20232A?style=flat&logo=firefox" alt="Portfolio" />
   </a>
 
