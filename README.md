@@ -2,7 +2,7 @@
 
   <h1>Hola, soy Tiago 👋</h1>
   
-  <h3>🚀 Full Stack Developer | Backend & Mobile Specialist</h3>
+  <h3>🚀 Full Stack Developer | Backend Specialist</h3>
   
   <p>
     Estudiante de <b>Ingeniería de Sistemas e IA (7mo Ciclo)
